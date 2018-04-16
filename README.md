@@ -14,6 +14,7 @@ Also Unit Tests have been added in a separate Test folder for testing the longes
 
 Steps:
 1) Clone the repository and add it in your own workspace.
+2) To use the JUnit, include JUnit jar-files "junit-4.2.jar" and "hamcrest-core-1.3.jar" in your CLASSPATH.
 2) Compile using the command : javac src/com/java/challenge/FindLongestWord.java test/com/junit/test/FindLongestWordTest.java
 3) To execute the Unit Tests Run the command: java test/com/junit/test/FindLongestWordTest.java
 
